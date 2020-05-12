@@ -35,7 +35,7 @@ Changes to be committed:
 	new file:   test1.json
 
 
-11.Now commit to your local repo- git commit -m "test.json added"
+11.Now commit to your local repo -
 haabil9692@jehennum:~/git_repos/play_again/testRepo$ git commit -m "test.json added"
 [detached HEAD 988147a] test.json added
  1 file changed, 3 insertions(+)
